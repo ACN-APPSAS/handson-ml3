@@ -90,3 +90,4 @@ pydot~=1.4.2
 # Optional: statsmodels is only used in chapter 15 for time series analysis
 statsmodels~=0.14.0
 
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
